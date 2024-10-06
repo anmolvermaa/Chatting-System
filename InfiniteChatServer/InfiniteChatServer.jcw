@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>InfiniteChatServer</label>
+	</settings>
+	<users>
+		<user>
+			<path>InfiniteChatServer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>InfiniteChatServer.jcp</path>
+		</project>
+	</projects>
+</workspace>
